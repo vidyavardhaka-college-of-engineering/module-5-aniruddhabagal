@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "add two integer numbers",
+      "setup": "g++ Program-1.cpp",
+      "run": "./a.out",
+      "input": "2 3",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "area of a rectangle",
+      "setup": "g++ Program-2.cpp",
+      "run": "./a.out",
+      "input": "4 8",
+      "output": "32",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "display the number entered by the user",
+      "setup": "g++ Program-3.cpp",
+      "run": "./a.out",
+      "input": "8",
+      "output": "8",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "find simple interest",
+      "setup": "g++ Program-4.cpp",
+      "run": "./a.out",
+      "input": "100 10 1",
+      "output": "10",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "person is eligible to vote or not",
+      "setup": "g++ Program-5.cpp",
+      "run": "./a.out",
+      "input": "18",
+      "output": "person is eligible for voting",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "multiply two floating point numbers",
+      "setup": "g++ Program-6.cpp",
+      "run": "./a.out",
+      "input": "3.4 5.5",
+      "output": "18.7",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "factorial of a given number",
+      "setup": "g++ Program-7.cpp",
+      "run": "./a.out",
+      "input": "5",
+      "output": "120",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "sum of first n numbers",
+      "setup": "g++ Program-8.cpp",
+      "run": "./a.out",
+      "input": "5",
+      "output": "15",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "compute remainder",
+      "setup": "g++ Program-9.cpp",
+      "run": "./a.out",
+      "input": "12 6",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "square root of a number",
+      "setup": "g++ Program-10.cpp",
+      "run": "./a.out",
+      "input": "10.25",
+      "output": "3.20156",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 10
+    }
+  ]
+}
