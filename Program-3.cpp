@@ -8,9 +8,9 @@
 
 int main()
 {    
-    int number;
+    int num;
     std::cout << "Enter an integer: ";
-    std::cin >> ;//fill the missing statement
-    std::cout<< ;//fill the missing statement
+    std::cin >> num;//fill the missing statement
+    std::cout<< num;//fill the missing statement
     return 0;
 }
