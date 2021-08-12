@@ -22,6 +22,6 @@ int main()
         //complete the missing code
     }
 
-    std::cout <<sum;
+    std::cout<<sum<<endl;
     return 0;
 }
