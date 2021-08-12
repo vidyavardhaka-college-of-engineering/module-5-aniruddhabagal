@@ -10,7 +10,7 @@ int main()
 {
     int n, sum = 0, i; //complete the declaration part
 
-//     std::cout << "Enter a positive integer: ";
+    std::cout << "Enter a positive integer: "<<endl;
     std::cin >> n;
 
     while(i<=n)
